@@ -12,4 +12,4 @@ This project detects hand gestures in real-time using a webcam, recognizes the c
 1. Clone the repository:
    ```bash
    git clone https://github.com/Trisha-Tyagi/Hand-gesture-recognition.git
-![Alt Text](C:\Users\Trisha Tyagi\OneDrive\문서\signs.jpg)
+
